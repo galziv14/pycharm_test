@@ -41,6 +41,4 @@ def calculator():
 
 calculator()
 
-print("addition")
-print("How are you?")
 
