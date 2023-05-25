@@ -48,4 +48,4 @@ calculator()
 #"test new branch"
 #changed something on github directly
 
-x = 30
+x = 23
