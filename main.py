@@ -15,7 +15,11 @@ def division(n1, n2):
     return n1/n2
 
 
-operations = {"+": add, "-": subtract, "*": multiply, "/": division}
+def power(n1, n2):
+    return n1**n2
+
+
+operations = {"+": add, "-": subtract, "*": multiply, "/": division, "^": power}
 
 
 def calculator():
@@ -40,5 +44,3 @@ def calculator():
 
 
 calculator()
-
-
