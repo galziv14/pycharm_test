@@ -35,9 +35,12 @@ def calculator():
         if choice == "n":
             should_continue = False
             calculator()
+        else:
+            should_continue = False
 
 
 calculator()
 
 print("addition")
+print("How are you?")
 
